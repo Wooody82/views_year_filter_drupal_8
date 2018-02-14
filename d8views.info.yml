@@ -1,0 +1,5 @@
+name: Year views filter
+description: 'This is a custom module to create filter by year for views -  interact with the Views API in Drupal 8.'
+type: module
+core: 8.x
+version: 1.x
